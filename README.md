@@ -33,6 +33,6 @@
   <a href="https://www.linkedin.com/in/rahul-gorai-86a7041a2/"><img src="https://github.com/sudo-rgorai/sudo-rgorai/blob/master/assets/linkedin.png" width="64px"/></a>
 
   #### 📖 Quote of the day
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)]
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
   ### Thanks for visiting. May the force be with you!
