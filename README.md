@@ -32,7 +32,5 @@
   <a href="https://www.instagram.com/irrational_constant/"><img src="https://github.com/sudo-rgorai/sudo-rgorai/blob/master/assets/instagram.png" width="64px"/></a>
   <a href="https://www.linkedin.com/in/rahul-gorai-86a7041a2/"><img src="https://github.com/sudo-rgorai/sudo-rgorai/blob/master/assets/linkedin.png" width="64px"/></a>
 
-  #### 📖 Quote of the day
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
-  ### Thanks for visiting. May the force be with you!
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=sudo-rgorai&show_icons=true&hide_border=true)
+<br />
